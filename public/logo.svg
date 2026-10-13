@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" fill="none">
+  <!-- Paintstar Luxury Atelier Logo -->
+  <g transform="translate(4, 8)">
+    <!-- Palette / Diamond Crest Emblem -->
+    <rect x="0" y="4" width="36" height="36" rx="8" fill="#0B1012" stroke="#FFFFFF" stroke-opacity="0.2" stroke-width="1.5"/>
+    <path d="M18 10L24 16L18 22L12 16Z" fill="#FF543E"/>
+    <circle cx="18" cy="28" r="3" fill="#FFFFFF" fill-opacity="0.8"/>
+    <circle cx="10" cy="24" r="2" fill="#FFFFFF" fill-opacity="0.5"/>
+    <circle cx="26" cy="24" r="2" fill="#FFFFFF" fill-opacity="0.5"/>
+  </g>
+  <!-- Brand Typography -->
+  <text x="52" y="32" font-family="'Playfair Display', Georgia, serif" font-size="24" font-weight="600" fill="#FFFFFF" letter-spacing="2">
+    PAINT<tspan fill="#FF543E">STAR</tspan>
+  </text>
+  <text x="54" y="46" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-size="8" font-weight="500" fill="#9AA0A4" letter-spacing="4">
+    FINE ART ATELIER
+  </text>
+</svg>
